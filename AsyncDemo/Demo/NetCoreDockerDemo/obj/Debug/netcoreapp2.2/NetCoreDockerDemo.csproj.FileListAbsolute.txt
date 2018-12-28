@@ -1,0 +1,14 @@
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.csproj.CoreCompileInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.AssemblyInfoInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.AssemblyInfo.cs
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\bin\Debug\netcoreapp2.2\NetCoreDockerDemo.deps.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\bin\Debug\netcoreapp2.2\NetCoreDockerDemo.runtimeconfig.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\bin\Debug\netcoreapp2.2\NetCoreDockerDemo.runtimeconfig.dev.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\bin\Debug\netcoreapp2.2\NetCoreDockerDemo.dll
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\bin\Debug\netcoreapp2.2\NetCoreDockerDemo.pdb
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.csprojAssemblyReference.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.RazorAssemblyInfo.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.RazorAssemblyInfo.cs
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.RazorTargetAssemblyInfo.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.dll
+D:\swt\Demo\AsyncDemo\Demo\NetCoreDockerDemo\obj\Debug\netcoreapp2.2\NetCoreDockerDemo.pdb

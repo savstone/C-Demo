@@ -1,0 +1,11 @@
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\bin\Release\netcoreapp2.2\NetCoreSerialPort.deps.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\bin\Release\netcoreapp2.2\NetCoreSerialPort.runtimeconfig.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\bin\Release\netcoreapp2.2\NetCoreSerialPort.runtimeconfig.dev.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\bin\Release\netcoreapp2.2\NetCoreSerialPort.dll
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\bin\Release\netcoreapp2.2\NetCoreSerialPort.pdb
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\obj\Release\netcoreapp2.2\NetCoreSerialPort.csprojAssemblyReference.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\obj\Release\netcoreapp2.2\NetCoreSerialPort.csproj.CoreCompileInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\obj\Release\netcoreapp2.2\NetCoreSerialPort.AssemblyInfoInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\obj\Release\netcoreapp2.2\NetCoreSerialPort.AssemblyInfo.cs
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\obj\Release\netcoreapp2.2\NetCoreSerialPort.dll
+D:\swt\Demo\AsyncDemo\Demo\NetCoreSerialPort\obj\Release\netcoreapp2.2\NetCoreSerialPort.pdb

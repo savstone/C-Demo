@@ -1,0 +1,10 @@
+D:\swt\Demo\AsyncDemo\Demo\Async\bin\Debug\WinformAsync.exe.config
+D:\swt\Demo\AsyncDemo\Demo\Async\bin\Debug\WinformAsync.exe
+D:\swt\Demo\AsyncDemo\Demo\Async\bin\Debug\WinformAsync.pdb
+D:\swt\Demo\AsyncDemo\Demo\Async\obj\Debug\WinformAsync.csprojAssemblyReference.cache
+D:\swt\Demo\AsyncDemo\Demo\Async\obj\Debug\Async.Form1.resources
+D:\swt\Demo\AsyncDemo\Demo\Async\obj\Debug\WinformAsync.Properties.Resources.resources
+D:\swt\Demo\AsyncDemo\Demo\Async\obj\Debug\WinformAsync.csproj.GenerateResource.cache
+D:\swt\Demo\AsyncDemo\Demo\Async\obj\Debug\WinformAsync.csproj.CoreCompileInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\Async\obj\Debug\WinformAsync.exe
+D:\swt\Demo\AsyncDemo\Demo\Async\obj\Debug\WinformAsync.pdb

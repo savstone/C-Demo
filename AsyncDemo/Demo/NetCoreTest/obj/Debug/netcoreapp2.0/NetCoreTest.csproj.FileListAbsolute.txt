@@ -1,0 +1,11 @@
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\bin\Debug\netcoreapp2.0\NetCoreTest.deps.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\bin\Debug\netcoreapp2.0\NetCoreTest.runtimeconfig.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\bin\Debug\netcoreapp2.0\NetCoreTest.runtimeconfig.dev.json
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\bin\Debug\netcoreapp2.0\NetCoreTest.dll
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\obj\Debug\netcoreapp2.0\NetCoreTest.csprojAssemblyReference.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\obj\Debug\netcoreapp2.0\NetCoreTest.csproj.CoreCompileInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\obj\Debug\netcoreapp2.0\NetCoreTest.AssemblyInfoInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\obj\Debug\netcoreapp2.0\NetCoreTest.AssemblyInfo.cs
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\bin\Debug\netcoreapp2.0\NetCoreTest.pdb
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\obj\Debug\netcoreapp2.0\NetCoreTest.dll
+D:\swt\Demo\AsyncDemo\Demo\NetCoreTest\obj\Debug\netcoreapp2.0\NetCoreTest.pdb

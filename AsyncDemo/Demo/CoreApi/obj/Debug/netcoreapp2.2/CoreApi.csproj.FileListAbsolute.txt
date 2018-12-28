@@ -1,0 +1,14 @@
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\bin\Debug\netcoreapp2.2\CoreApi.deps.json
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\bin\Debug\netcoreapp2.2\CoreApi.runtimeconfig.json
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\bin\Debug\netcoreapp2.2\CoreApi.runtimeconfig.dev.json
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\bin\Debug\netcoreapp2.2\CoreApi.dll
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\bin\Debug\netcoreapp2.2\CoreApi.pdb
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.csprojAssemblyReference.cache
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.csproj.CoreCompileInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.RazorAssemblyInfo.cache
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.RazorAssemblyInfo.cs
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.AssemblyInfoInputs.cache
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.AssemblyInfo.cs
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.RazorTargetAssemblyInfo.cache
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.dll
+D:\swt\Demo\AsyncDemo\Demo\CoreApi\obj\Debug\netcoreapp2.2\CoreApi.pdb
